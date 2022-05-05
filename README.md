@@ -5,7 +5,7 @@ HTMl is for the skeleton of body
 CSS has been used to style
 Javascript has been used to achieve functionality.
 ## Link
-https://macc254.github.io/My-Portfolio/
+https://macc254.github.io/Portfolio/
 ## Description
 A  portfolio about me.
 ## Technologies used
@@ -20,7 +20,7 @@ This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{Mercy Bore}**
 ## Installation
 Fork project from Github
-https://macc254.github.io/My-Portfolio/
+https://macc254.github.io/Portfolio/
 ## challenges
 None
 ### License

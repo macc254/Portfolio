@@ -374,7 +374,11 @@ header .navbar ul li a:hover {
     display: none;
 }
 
-
+.footer h1{
+    color: #eee;
+    text-align: center;
+    font-size: large;
+}
 /* media queries  */
 
 @media (max-width:1200px) {
